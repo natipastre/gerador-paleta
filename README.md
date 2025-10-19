@@ -13,9 +13,7 @@ Ideal para <strong>designers, desenvolvedores e criadores</strong> que buscam in
 👉 <a href="https://natipastre.github.io/gerador-paleta-cores/" target="_blank">Gerador de Paletas de Cores</a>
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/YqT1dSyg/paleta.png" width="400px" alt="Gerador de Paletas de Cores">
-</p>
+
 
 <hr>
 
