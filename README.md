@@ -10,7 +10,7 @@ Ideal para <strong>designers, desenvolvedores e criadores</strong> que buscam in
 
 <p>
 🔗 <strong>Acesse o projeto online:</strong><br>
-👉 <a href="https://natipastre.github.io/gerador-paleta-cores/" target="_blank">Gerador de Paletas de Cores</a>
+👉 <a href="https://natipastre.github.io/gerador-paleta/" target="_blank">Gerador de Paletas de Cores</a>
 </p>
 
 
