@@ -6,9 +6,7 @@ Um aplicativo interativo desenvolvido com <strong>React</strong>, que gera
 Ideal para <strong>designers, desenvolvedores e criadores</strong> que buscam inspiração visual para seus projetos.
 </p>
 
-<hr>
 
-<h2>🌈 Demonstração</h2>
 
 <p>
 🔗 <strong>Acesse o projeto online:</strong><br>
