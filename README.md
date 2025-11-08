@@ -19,7 +19,7 @@
 
 👉 <a href="https://natipastre.github.io/gerador-paleta/" target="_blank"><strong>Gerador de Paletas de Cores</strong></a>
 
-📂 <a href="https://github.com/natipastre/gerador-paleta-cores" target="_blank">Repositório no GitHub</a>
+
 
 ---
 
